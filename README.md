@@ -6,10 +6,10 @@ It's a collaborative effort from the Open Data Science community to target socia
 The COVID19 Pandemic is upon us and among many things has brought our social / cultural, economic, and financial way of life to a standstill. To do something constructive, the Open Data Science community decided to start collaborating on a hackathon based on the enormous data that is becoming available (structured and unstructured) from this pandemic and use that with other open data sources to come up with possible insights to help our society and thereby live up to our higher purpose!
 
 # Areas of Interest
-1. Preparedness & Intervention - What is the data telling us, from early aggressive intervention to strategic supply preparedness for testing?
-2. Response & Optimization - What is the best way to respond to social distancing based on surface and transmission mediums?
-3. Research & Analysis - How to help the scientific community on research or demand on precious hospital resources
-4. Sustainability & Change - What is data telling us about the ability to change lifestyle?
+1. [Preparedness & Intervention](https://github.com/rkpaleru/Covid19-Hackathon/tree/master/Preparedness%20%26%20Intervention) - What is the data telling us, from early aggressive intervention to strategic supply preparedness for testing?
+2. [Response & Optimization](https://github.com/rkpaleru/Covid19-Hackathon/tree/master/Response%20%26%20Optimization) - What is the best way to respond to social distancing based on surface and transmission mediums?
+3. [Research & Analysis](https://github.com/rkpaleru/Covid19-Hackathon/tree/master/Research%20%20%26%20Analysis) - How to help the scientific community on research or demand on precious hospital resources
+4. [Sustainability & Change](https://github.com/rkpaleru/Covid19-Hackathon/tree/master/Sustainability%20%26%20Change) - What is data telling us about the ability to change lifestyle?
 
 # Contributors
 1. RK Paleru
