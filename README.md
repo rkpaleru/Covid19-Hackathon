@@ -21,7 +21,9 @@ The COVID19 Pandemic is upon us and among many things has brought our social / c
 7. Sanket Korgaonkar
 8. Bala Amavasai
 9. Marco Miglionico
-10. ... (more to come)
+10. Saim Jafri
+11. Danielle Decharles
+12. ... (more to come)
 
 # Who can participate?
 Anyone who wishes to contribute to this effort in an open way. We do not have any affiliation to a company, government or non-profit organization. This is purely intended to be a social good oriented effort and will be valuable to participants who would like to contribute to civil society at large.
