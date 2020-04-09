@@ -8,8 +8,8 @@ The COVID19 Pandemic is upon us and among many things has brought our social / c
 # Areas of Interest
 1. Preparedness & Intervention - What is the data telling us, from early aggressive intervention to strategic supply preparedness for testing?
 2. Response & Optimization - What is the best way to respond to social distancing based on surface and transmission mediums?
-3. Research & Analysis - How to help the scientific community on research or demand on precious hospital resources?
-4.Sustainability & Change - What is data telling us about the ability to change lifestyle?
+3. Research & Analysis - How to help the scientific community on research or demand on precious hospital resources
+4. Sustainability & Change - What is data telling us about the ability to change lifestyle?
 
 # Contributors
 1. RK Paleru
