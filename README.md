@@ -1,3 +1,5 @@
+# GRAPHIC HERE - COVID 19 - Health - Virus - Data - Digital Theme 
+
 # Welcome to the Covid19-Hackathon
 
 # What is the Covid19-Hackathon?
